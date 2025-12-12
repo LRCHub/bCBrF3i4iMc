@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Direct Drive!",
+  "base_artist": "Happy Around!",
+  "createdAt": "2025-12-12T20:31:26.213938Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Direct Drive!",
+      "artist": "Happy Around!",
+      "has_synced": true,
+      "path": "select/01_Direct_Drive!_Happy_Around!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Direct Drive!",
+      "artist": "Happy Around!",
+      "has_synced": true,
+      "path": "select/02_Direct_Drive!_Happy_Around!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Direct Drive!",
+      "artist": "Happy Around! (西尾夕香, 各務華梨, 三村遙佳, 志崎樺音)",
+      "has_synced": true,
+      "path": "select/03_Direct_Drive!_Happy_Around!_(西尾夕香,_各務華梨,_三村遙佳,_志崎樺音).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Direct Drive!",
+      "artist": "Happy Around!",
+      "has_synced": false,
+      "path": "select/pl_01_Direct_Drive!_Happy_Around!.txt"
+    }
+  ]
+}
